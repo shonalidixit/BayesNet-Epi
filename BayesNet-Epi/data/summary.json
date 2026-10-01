@@ -1,0 +1,7 @@
+{
+  "farms": 120,
+  "movements": 361,
+  "infected": 14,
+  "community_ARI_vs_simulated_regions": 0.18287408711866165,
+  "mean_sampling_transitivity_error": 0.033185417439364734
+}
